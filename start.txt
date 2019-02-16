@@ -1,1 +1,0 @@
-Hello this is created by echo command  i.e. echo "innerString" >> filename 
